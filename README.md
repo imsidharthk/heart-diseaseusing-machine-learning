@@ -1,2 +1,2 @@
-# heart-diseaseusing-machine-learning
+# heart-disease predictionn using-machine-learning
 machine learning model
